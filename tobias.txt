@@ -1,2 +1,3 @@
 Some text to be fucked with
 My favorite color is orange
+The hex code is #F58E27
