@@ -1,6 +1,7 @@
-   II
-   II/  \ 
-    /    \
+                                      \ / 
+   II                                 -O-
+   II/  \                             / \
+    /    \                             
    I   o   I
    I  ___  I
    I  I I  I
