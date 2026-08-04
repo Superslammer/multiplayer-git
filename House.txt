@@ -1,5 +1,5 @@
-   I       I
-   I  ___  I
-   I  I I  I
-   I  I I  I
+   I       I     /  \
+   I  ___  I    /    \
+   I  I I  I    --||--
+   I  I I  I      ||
 ----------------
